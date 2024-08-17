@@ -1,0 +1,12 @@
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\bin\Debug\ExchangecodeExtractor.exe.config
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\bin\Debug\ExchangecodeExtractor.exe
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\bin\Debug\ExchangecodeExtractor.pdb
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\bin\Debug\ExchangecodeExtractor.xml
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\obj\Debug\ExchangecodeExtractor.vbproj.AssemblyReference.cache
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\obj\Debug\ExchangecodeExtractor.Form1.resources
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\obj\Debug\ExchangecodeExtractor.Resources.resources
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\obj\Debug\ExchangecodeExtractor.vbproj.GenerateResource.cache
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\obj\Debug\ExchangecodeExtractor.vbproj.CoreCompileInputs.cache
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\obj\Debug\ExchangecodeExtractor.exe
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\obj\Debug\ExchangecodeExtractor.xml
+E:\Projects\VisualStudio2022\ExchangecodeExtractor\obj\Debug\ExchangecodeExtractor.pdb
